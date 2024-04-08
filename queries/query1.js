@@ -4,8 +4,6 @@ const db = client.db('mockdata');
 const collection = db.collection('mockdatas');
 
 //aggregation query
-
-//aggregation query
 const result = await collection.aggregate([
     {
         $group: {

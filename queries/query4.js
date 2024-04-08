@@ -4,7 +4,7 @@ const db = client.db('mockdata');
 const collection = db.collection('mockdatas');
 
 
-//update the document where the budID is 7 and set it to boolean true
+//update the document with budID 7 and set the description, submissionDate, and dateOpened fields
 const result = await collection.updateOne(
     { "budID": 7 },
     { $set: { 

@@ -23,7 +23,7 @@ const queryAND = await collection.find({
     ]
 }).toArray();
 
-console.log("Search using $or:");
+console.log("Search using $and:");
 console.log(queryAND);
 
 
