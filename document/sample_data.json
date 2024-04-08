@@ -1,0 +1,150 @@
+[{
+    "budID": 1,
+    "description": "Asanthus squamulosus (A. Gray) R.M. King & H. Rob.",
+    "submissionDate": "6/22/2022",
+    "dateOpened": "7/14/2023",
+    "bugAssignment": [
+      {
+        "developer": {
+          "developerID": 1,
+          "developerName": "Kristel",
+          "project": {
+            "projectID": 1,
+            "projectName": "ZAGG Inc",
+            "framework": {
+              "frameworkID": 1,
+              "frameworkName": "Indomethacin"
+            }
+          }
+        },
+        "bugAssignmentID": 1,
+        "bugAssignmentName": "Tortoiseshell Bamboo"
+      },
+      {
+        "developer": {
+          "developerID": 2,
+          "developerName": "Tore",
+          "project": {
+            "projectID": 2,
+            "projectName": "Motif Bio plc",
+            "framework": {
+              "frameworkID": 2,
+              "frameworkName": "Care One Pain Relief"
+            }
+          }
+        },
+        "bugAssignmentID": 2,
+        "bugAssignmentName": "Eastern Joy Lotustree"
+      },
+      {
+        "developer": {
+          "developerID": 3,
+          "developerName": "Towny",
+          "project": {
+            "projectID": 3,
+            "projectName": "BB&T Corporation",
+            "framework": {
+              "frameworkID": 3,
+              "frameworkName": "Paecilomyces"
+            }
+          }
+        },
+        "bugAssignmentID": 3,
+        "bugAssignmentName": "Runyon's Water-willow"
+      }
+    ]
+  }, {
+    "budID": 2,
+    "description": "Castilleja exserta (A. Heller) T.I. Chuang & Heckard ssp. latifolia (S. Watson) T.I. Chuang & Heckard",
+    "submissionDate": "4/6/2023",
+    "dateOpened": "1/24/2024",
+    "bugAssignment": [
+      {
+        "developer": {
+          "developerID": 1,
+          "developerName": "Anet",
+          "project": {
+            "projectID": 1,
+            "projectName": "Pure Storage, Inc. ",
+            "framework": {
+              "frameworkID": 1,
+              "frameworkName": "Stomach Cramps 1"
+            }
+          }
+        },
+        "bugAssignmentID": 1,
+        "bugAssignmentName": "Calloose Grape"
+      },
+      {
+        "developer": {
+          "developerID": 2,
+          "developerName": "Roby",
+          "project": {
+            "projectID": 2,
+            "projectName": "EPR Properties",
+            "framework": {
+              "frameworkID": 2,
+              "frameworkName": "Loratadine and Pseudoephedrine Sulfate"
+            }
+          }
+        },
+        "bugAssignmentID": 2,
+        "bugAssignmentName": "Maui Plantain"
+      }
+    ]
+  }, {
+    "budID": 3,
+    "description": "Erythronium montanum S. Watson",
+    "submissionDate": "10/13/2022",
+    "dateOpened": "4/3/2024",
+    "bugAssignment": [
+      {
+        "developer": {
+          "developerID": 1,
+          "developerName": "Buckie",
+          "project": {
+            "projectID": 1,
+            "projectName": "InVivo Therapeutics Holdings Corp.",
+            "framework": {
+              "frameworkID": 1,
+              "frameworkName": "Super Restorative Foundation True Lift SPF 15 Tint 06"
+            }
+          }
+        },
+        "bugAssignmentID": 1,
+        "bugAssignmentName": "Waipio Valley Clermontia"
+      },
+      {
+        "developer": {
+          "developerID": 2,
+          "developerName": "Quillan",
+          "project": {
+            "projectID": 2,
+            "projectName": "Vina Concha Y Toro",
+            "framework": {
+              "frameworkID": 2,
+              "frameworkName": "L-Trans"
+            }
+          }
+        },
+        "bugAssignmentID": 2,
+        "bugAssignmentName": "Pillar Apple"
+      },
+      {
+        "developer": {
+          "developerID": 3,
+          "developerName": "Efrem",
+          "project": {
+            "projectID": 3,
+            "projectName": "Medley Management Inc.",
+            "framework": {
+              "frameworkID": 3,
+              "frameworkName": "Enteric Aspirin"
+            }
+          }
+        },
+        "bugAssignmentID": 3,
+        "bugAssignmentName": "Allegheny Monkeyflower"
+      }
+    ]
+  }]
